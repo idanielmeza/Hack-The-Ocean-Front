@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'hacktheocean'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D87FB70C448E4594B3D176266EA77BB8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB0664E5645B46D49FE96BD68D2F8A07 }}
           package: .
